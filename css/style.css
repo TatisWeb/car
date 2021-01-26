@@ -171,7 +171,7 @@ body {
  .intro {
   width: 100%;
   height: 100vh;
-  background-image: url(/img/intro-car.jpg);
+  background-image: url(img/intro-car.jpg);
   background-size: 1000px 100%;
   background-position: 50%;
   z-index: -1;
